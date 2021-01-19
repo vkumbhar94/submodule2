@@ -1,3 +1,10 @@
+## [6.0.2](https://github.com/vkumbhar94/submodule2/compare/6.0.1...6.0.2) (2021-01-19)
+
+
+### Bug Fixes
+
+* hotfix ([83b3a56](https://github.com/vkumbhar94/submodule2/commit/83b3a561f70dc8b966e13974a8977a91a660a685))
+
 ## [6.0.1](https://github.com/vkumbhar94/submodule2/compare/v6.0.0...6.0.1) (2021-01-19)
 
 
