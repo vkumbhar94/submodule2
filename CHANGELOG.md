@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/vkumbhar94/submodule2/compare/v2.0.3...v2.1.0) (2021-01-19)
+
+
+### Features
+
+* **all:** First semantic release ([3fe2780](https://github.com/vkumbhar94/submodule2/commit/3fe2780ba9eecb4d6e0341b63b2ffeef711c4adc))
+
 ### [2.0.3](https://github.com/vkumbhar94/submodule2/compare/v2.0.2...v2.0.3) (2021-01-19)
 
 ### [2.0.2](https://github.com/vkumbhar94/submodule2/compare/v2.0.1...v2.0.2) (2021-01-19)
