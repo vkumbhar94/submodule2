@@ -14,3 +14,6 @@ hotfix 2
 
 Release 6
 hotfix
+
+release file path
+.github/workflows/release.yml
