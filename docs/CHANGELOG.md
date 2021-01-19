@@ -1,3 +1,16 @@
+# [7.0.0](https://github.com/vkumbhar94/submodule2/compare/6.0.2...7.0.0) (2021-01-19)
+
+
+### Features
+
+* Add some major feature ([f7a090f](https://github.com/vkumbhar94/submodule2/commit/f7a090fe4d03268f34f2c8ba90425f5c49ef0077))
+
+
+### BREAKING CHANGES
+
+* this is a major change so marking consiously major
+release
+
 ## [6.0.2](https://github.com/vkumbhar94/submodule2/compare/6.0.1...6.0.2) (2021-01-19)
 
 
