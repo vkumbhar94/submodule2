@@ -19,3 +19,5 @@ release file path
 .github/workflows/release.yml
 
 hotfix
+
+release 7
